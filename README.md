@@ -127,7 +127,7 @@ Replace your Google API key in:
 ### `app.py` and `index.html`
 
 ```python
-GOOGLE_API_KEY = "YOUR_API_KEY"
+GOOGLE_API_KEY = "AIzaSyBWz8FvOq4Azo2QZujcxQFMzJrfoa2TmsY"
 ```
 
 ---
